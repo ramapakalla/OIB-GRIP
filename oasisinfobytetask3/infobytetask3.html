@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+
+<head> </head>
+
+<body>
+    <div class="temperature-converter-container pb-5">
+        <img class="temperature-converter-image" src="https://www.pngkey.com/png/detail/297-2976588_temperature-conversion-convert-temperature-icon.png" />
+        <h1 class="temperature-converter-heading text-center mt-4 mb-4">Temperature Converter</h1>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-md-6 mb-4">
+                <label for="celsius">Celsius</label>
+                <input id="celsius" type="number" class="user-input" oninput="celsiusToFahrenheit()" />
+            </div>
+        </div>
+        <div class="container">
+            <div class="col-12 col-md-6 mb-4">
+                <label for="fahrenheit">Fahrenheit</label>
+                <input id="fahrenheit" type="number" class="user-input" oninput="fahrenheitToCelsius()" />
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

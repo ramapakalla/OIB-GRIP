@@ -1,0 +1,221 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.travel-dreams-logo {
+    width: 180px;
+    height: 180px;
+}
+
+#navItem1 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem2 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem3 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem4 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+
+.banner-section-bg-container {
+    background-image: url("https://st2.depositphotos.com/36694358/46189/i/450/depositphotos_461892866-stock-photo-travel-banner-summer-holidays-vacation.jpg");
+    height: 100vh;
+    background-size: cover;
+}
+
+.banner-heading {
+    color: #251726;
+    font-family: "Sans-Serif";
+    font-size: 58px;
+    font-weight: bold;
+}
+
+.banner-caption {
+    color: #251726;
+    font-family: "Sans-Serif";
+    font-size: 32px;
+    font-weight: 400;
+}
+
+.featured-destinations-section {
+    background-color: #cdcadb;
+}
+
+.featured-destinations-section-heading {
+    color: #183b56;
+    font-family: "Sans-Serif";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.featured-destinations-section-description {
+    color: #5a7184;
+    font-family: "Sans-Serif";
+    font-size: 16px;
+}
+
+.featured-destinations-card {
+    text-align: center;
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+
+}
+
+.featured-destinations-card-image {
+    width: 250px;
+    height: 200px;
+
+}
+
+.featured-destinations-card-title {
+    color: #323f4b;
+    font-family: "Sans-Serif";
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.featured-destinations-card-description {
+    color: #7b8794;
+    font-family: "Sans-Serif";
+    font-size: 16px;
+}
+
+.discover-more-section {
+    background-color: white;
+}
+
+.discover-section-heading {
+    color: #183b56;
+    font-family: "Sans-Serif";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.discover-place-image {
+    border-radius: 16px;
+}
+
+.discover-card-title {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 24px;
+}
+
+.discover-card-link {
+    color: #d0b200;
+    font-family: "Sans-Serif";
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.discover-place-card {
+    border-radius: 16px;
+}
+
+.destination-gallery-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.destination-gallery-section-description {
+    color: #5a7184;
+    font-family: "Sans-Serif";
+    font-size: 16px;
+}
+
+.users-review-section {
+    background-color: white;
+}
+
+.users-review-section-img {
+    width: 270px;
+}
+
+.users-review-section-heading {
+    color: #183b56;
+    font-family: "Sans-Serif";
+    text-align: center;
+    font-size: 28px;
+    font-weight: 700;
+    padding-top: 12px;
+}
+
+.users-review-section-description {
+    color: #5a7184;
+    font-family: "Sans-Serif";
+    font-size: 16px;
+}
+
+.review-card-img {
+    width: 50px;
+    height: 50px;
+    margin-right: 28px;
+}
+
+.follow-us-section {
+    background-color: white;
+}
+
+.follow-us-section-heading {
+    text-align: center;
+    color: #183b56;
+    font-family: "Sans-Serif";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.follow-us-icon-container {
+    background-color: orange;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin: 15px;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+}
+
+.icon {
+    color: #0000A3;
+    font-size: 35px;
+}
+
+.footer-section {
+    background-color: #0d2436;
+}
+
+.footer-section-mail-id {
+    color: #959ead;
+    font-family: "Sans-Serif";
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.footer-section-address {
+    color: #959ead;
+    font-family: "Sans-Serif";
+    font-size: 14px;
+}
+
+.travel-dreams-footer-logo {
+    width: 180px;
+    height: 180px;
+    border-radius: 100px;
+}
